@@ -74,7 +74,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anrikopaliani&theme=radical&border=7F3FBF&background=0D1117" alt="anrikopaliani" /></p>
 
 <a> 
-  <a href="https://github.com/anrikopaliani"><img alt="Anri Kopaliani's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Tusho7&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="150px" width="49.5%" style="font-size: 16px;"/></a>
+  <a href="https://github.com/anrikopaliani"><img alt="Anri Kopaliani's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=anrikopaliani&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="150px" width="49.5%" style="font-size: 16px;"/></a>
   <a href="https://github.com/anrikopaliani"><img alt="Anri Kopaliani's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=anrikopaliani&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="150px" width="49.5%"/></a>
   <br/>
 </a>
