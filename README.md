@@ -12,7 +12,6 @@
 
 - 📫 How to reach me via email: <b>anrikopa@gmail.com</b>
 
-- 🔭 I’m currently working on Private Project
 <hr></hr>
 
 <h3 align="center">Languages and Tools:</h3>
